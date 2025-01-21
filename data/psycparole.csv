@@ -1,0 +1,10 @@
+Psychiatric Prognosis,Parole Adjustment,Major Violation,Count
+Unfavorable,Favorable,No Major Violation,67
+Unfavorable,Minor Violation,No Major Violation,101
+Unfavorable,Major Violation,Major Violation,84
+Doubtful,Favorable,No Major Violation,410
+Doubtful,Minor Violation,No Major Violation,254
+Doubtful,Major Violation,Major Violation,195
+Favorable,Favorable,No Major Violation,452
+Favorable,Minor Violation,No Major Violation,100
+Favorable,Major Violation,Major Violation,65
